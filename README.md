@@ -16,7 +16,6 @@ O curso está dividido em quatro partes principais, cada uma com **slides** e **
 - Variáveis e operadores
 
 📂 [`Aula1/slides/aula1.pdf`](Aula1/slides/aula1.pdf)  
-📁 [`Aula1/codigo/aula1.R`](Aula1/codigo/aula1.R)
 
 ---
 
@@ -25,6 +24,7 @@ O curso está dividido em quatro partes principais, cada uma com **slides** e **
 - Tipos de objetos: vetores, listas, data frames, etc.
  
 📁 [`Aula2/codigo/aula2.R`](Aula2/codigo/aula2.R)
+📁 [`Aula2/exercicios/aula2.pdf`](Aula2/exercicios/aula2.pdf)
 
 ---
 
@@ -43,6 +43,7 @@ O curso está dividido em quatro partes principais, cada uma com **slides** e **
 
 📂 [`Aula4/slides/aula4.pdf`](Aula4/slides/aula4.pdf)  
 📁 [`Aula4/codigo/aula4.R`](Aula4/codigo/aula4.R)
+📁 [`Aula4/exercicios/aula4.pdf`](Aula2/exercicios/aula4.pdf)
 
 ---
 
