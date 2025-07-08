@@ -42,7 +42,7 @@ O curso está dividido em quatro partes principais, cada uma com **slides** e **
 - Aplicações práticas em R
 
 📂 [`Aula4/slides/aula4.pdf`](Aula4/slides/aula4.pdf)  
-📁 [`Aula4/codigo/aula4.R`](Aula4/codigo/aula4.R)
+📁 [`Aula4/codigo/renda_e_educacao.R`](Aula4/codigo/renda_e_educacao.R)
 📁 [`Aula4/exercicios/aula4.pdf`](Aula2/exercicios/aula4.pdf)
 
 ---
