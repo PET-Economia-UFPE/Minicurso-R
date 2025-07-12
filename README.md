@@ -33,6 +33,7 @@ O curso está dividido em quatro partes principais, cada uma com **slides** e **
 - Exploração visual de dados
 
 📁 [`Aula3/codigo/aula3.R`](Aula3/codigo/aula3.R)
+📁 [`Aula3/exercicios`](Aula3/codigo/aula3.R)
 
 ---
 
